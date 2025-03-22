@@ -190,5 +190,17 @@
     "name": "vJBU",
     "callsign": "JetBlue",
     "virtual": true
+  },
+  {
+    "icao": "MQT",
+    "name": "Musketeer VA",
+    "callsign": "MUSKETEER",
+    "virtual": true
+  },
+  {
+    "icao": "MQC",
+    "name": "Musketeer VA",
+    "callsign": "MUSKETEER CARGO",
+    "virtual": true
   }
 ]
