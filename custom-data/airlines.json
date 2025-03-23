@@ -190,5 +190,11 @@
     "name": "vJBU",
     "callsign": "JetBlue",
     "virtual": true
+  },
+  {
+    "icao": "SPJ",
+    "name": "SplitJet",
+    "callsign": "SplitJet",
+    "virtual": true
   }
 ]
