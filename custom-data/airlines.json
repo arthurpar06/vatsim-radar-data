@@ -5,23 +5,23 @@
     "callsign": "SIBERIAN AIRLINES",
     "virtual": false
   },
-   {
-    "icao":"BRU",
-    "name":"Belavia",
-    "callsign":"Belavia",
-    "virtual":true
+  {
+    "icao": "BRU",
+    "name": "Belavia",
+    "callsign": "Belavia",
+    "virtual": true
   },
   {
-    "icao":"MUC",
-    "name":"MUENCHEN AIRWAYS",
-    "callsign":"MUENCHEN AIRWAYS",
-    "virtual":true
+    "icao": "MUC",
+    "name": "MUENCHEN AIRWAYS",
+    "callsign": "MUENCHEN AIRWAYS",
+    "virtual": true
   },
   {
-    "icao":"SUN",
-    "name":"SUNRISE",
-    "callsign":"SUNRISE",
-    "virtual":true
+    "icao": "SUN",
+    "name": "SUNRISE",
+    "callsign": "SUNRISE",
+    "virtual": true
   },
   {
     "icao": "BHE",
@@ -29,7 +29,7 @@
     "callsign": "White Crane",
     "virtual": true
   },
-{
+  {
     "icao": "NOG",
     "name": "NIGHT AIR CARGO",
     "callsign": "NIGHT DOG",
@@ -195,7 +195,7 @@
     "icao": "SPJ",
     "name": "SplitJet",
     "callsign": "SplitJet",
- "virtual": true
+    "virtual": true
   },
   {
     "icao": "MQT",
@@ -204,35 +204,35 @@
     "virtual": true
   },
   {
-  "icao": "ABY",
-  "name": "vABY",
-  "callsign": "ARABIA",
-  "virtual": true
-},
-{
-  "icao": "ADY",
-  "name": "vABY",
-  "callsign": "NAWRAS",
-  "virtual": true
-},
-{
-  "icao": "RBG",
-  "name": "vABY",
-  "callsign": "ARABIA EGYPT",
-  "virtual": true
-},
-{
-  "icao": "MAC",
-  "name": "vABY",
-  "callsign": "ARABIA MAROC",
-  "virtual": true
-},
-{
-  "icao": "FJL",
-  "name": "vABY",
-  "callsign": "OKAAB",
-  "virtual": true
-},
+    "icao": "ABY",
+    "name": "vABY",
+    "callsign": "ARABIA",
+    "virtual": true
+  },
+  {
+    "icao": "ADY",
+    "name": "vABY",
+    "callsign": "NAWRAS",
+    "virtual": true
+  },
+  {
+    "icao": "RBG",
+    "name": "vABY",
+    "callsign": "ARABIA EGYPT",
+    "virtual": true
+  },
+  {
+    "icao": "MAC",
+    "name": "vABY",
+    "callsign": "ARABIA MAROC",
+    "virtual": true
+  },
+  {
+    "icao": "FJL",
+    "name": "vABY",
+    "callsign": "OKAAB",
+    "virtual": true
+  },
   {
     "icao": "SWR",
     "name": "vSWR",
