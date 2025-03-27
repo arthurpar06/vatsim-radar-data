@@ -8,8 +8,8 @@
     "preview": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@types/node": "^22.13.10",
-    "nitropack": "^2.11.7"
+    "@types/node": "^22.13.14",
+    "nitropack": "^2.11.8"
   },
   "packageManager": "yarn@4.7.0",
   "dependencies": {
