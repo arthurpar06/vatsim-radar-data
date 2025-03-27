@@ -192,6 +192,12 @@
     "virtual": true
   },
   {
+    "icao": "SPJ",
+    "name": "SplitJet",
+    "callsign": "SplitJet",
+ "virtual": true
+  },
+  {
     "icao": "MQT",
     "name": "Musketeer VA",
     "callsign": "MUSKETEER",
