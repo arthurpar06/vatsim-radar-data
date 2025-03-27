@@ -192,6 +192,12 @@
     "virtual": true
   },
   {
+    "icao": "MQT",
+    "name": "Musketeer VA",
+    "callsign": "MUSKETEER",
+    "virtual": true
+  },
+  {
   "icao": "ABY",
   "name": "vABY",
   "callsign": "ARABIA",
