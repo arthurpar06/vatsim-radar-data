@@ -5,23 +5,23 @@
     "callsign": "SIBERIAN AIRLINES",
     "virtual": false
   },
-   {
-    "icao":"BRU",
-    "name":"Belavia",
-    "callsign":"Belavia",
-    "virtual":true
+  {
+    "icao": "BRU",
+    "name": "Belavia",
+    "callsign": "Belavia",
+    "virtual": true
   },
   {
-    "icao":"MUC",
-    "name":"MUENCHEN AIRWAYS",
-    "callsign":"MUENCHEN AIRWAYS",
-    "virtual":true
+    "icao": "MUC",
+    "name": "MUENCHEN AIRWAYS",
+    "callsign": "MUENCHEN AIRWAYS",
+    "virtual": true
   },
   {
-    "icao":"SUN",
-    "name":"SUNRISE",
-    "callsign":"SUNRISE",
-    "virtual":true
+    "icao": "SUN",
+    "name": "SUNRISE",
+    "callsign": "SUNRISE",
+    "virtual": true
   },
   {
     "icao": "BHE",
@@ -29,7 +29,7 @@
     "callsign": "White Crane",
     "virtual": true
   },
-{
+  {
     "icao": "NOG",
     "name": "NIGHT AIR CARGO",
     "callsign": "NIGHT DOG",
@@ -189,6 +189,12 @@
     "icao": "JBU",
     "name": "vJBU",
     "callsign": "JetBlue",
+    "virtual": true
+  },
+  {
+    "icao": "PNW",
+    "name": "Pacific Northwest Airways",
+    "callsign": "Timberline",
     "virtual": true
   }
 ]
