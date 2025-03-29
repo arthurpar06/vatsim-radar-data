@@ -244,5 +244,11 @@
     "name": "Austrian Virtual",
     "callsign": "Austrian",
     "virtual": true
+  },
+  {
+    "icao": "PNW",
+    "name": "Pacific Northwest Airways",
+    "callsign": "Timberline",
+    "virtual": true
   }
 ]
