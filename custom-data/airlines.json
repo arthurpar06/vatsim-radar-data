@@ -250,5 +250,11 @@
     "name": "Pacific Northwest Airways",
     "callsign": "Timberline",
     "virtual": true
+  },
+  {
+    "icao": "BEL",
+    "name": "vBrussels",
+    "callsign": "BEELINE",
+    "virtual": true
   }
 ]
