@@ -250,5 +250,11 @@
     "name": "Pacific Northwest Airways",
     "callsign": "Timberline",
     "virtual": true
+  },
+  {
+    "icao": "IGO",
+    "name": "Indigo Virtual",
+    "callsign": "IFLY",
+    "virtual": true
   }
 ]
