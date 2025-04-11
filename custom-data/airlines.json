@@ -255,6 +255,23 @@
     "icao": "IGO",
     "name": "Indigo Virtual",
     "callsign": "IFLY",
+ "virtual": true
+  },
+    "icao": "BEL",
+    "name": "vBrussels",
+    "callsign": "BEELINE",
+    "virtual": true
+  },
+    {
+    "icao": "ASL",
+    "name": "Air Serbia Virtual",
+    "callsign": "AIR SERBIA",
+      "virtual": true
+    },
+  {
+    "icao": "WAL",
+    "name": "Willow Airlines",
+    "callsign": "Willow",
     "virtual": true
   }
 ]
