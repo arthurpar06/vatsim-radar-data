@@ -251,6 +251,12 @@
     "callsign": "Timberline",
     "virtual": true
   },
+  {
+    "icao": "BEL",
+    "name": "vBrussels",
+    "callsign": "BEELINE",
+    "virtual": true
+  },
     {
     "icao": "ASL",
     "name": "Air Serbia Virtual",
