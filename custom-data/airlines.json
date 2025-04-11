@@ -252,6 +252,12 @@
     "virtual": true
   },
   {
+    "icao": "IGO",
+    "name": "Indigo Virtual",
+    "callsign": "IFLY",
+ "virtual": true
+  },
+  {
     "icao": "BEL",
     "name": "vBrussels",
     "callsign": "BEELINE",
