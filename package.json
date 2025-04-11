@@ -8,10 +8,10 @@
     "preview": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@types/node": "^22.13.17",
-    "nitropack": "^2.11.8"
+    "@types/node": "^22.14.0",
+    "nitropack": "^2.11.9"
   },
-  "packageManager": "yarn@4.8.1",
+  "packageManager": "yarn@4.9.0",
   "dependencies": {
     "croner": "^9.0.0"
   }

@@ -255,6 +255,11 @@
     "icao": "ASL",
     "name": "Air Serbia Virtual",
     "callsign": "AIR SERBIA",
+      "virtual": true
+    },
+    "icao": "WAL",
+    "name": "Willow Airlines",
+    "callsign": "Willow",
     "virtual": true
   }
 ]
